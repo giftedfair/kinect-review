@@ -15,4 +15,4 @@ This review paper explores the use of Microsoft Kinect in human activity recogni
 - Surveillance systems
 
 ## Paper
-[View Full Paper](./Review Paper Microsoft Kinect.pdf)
+[View Full Paper](./Review_Paper_Microsoft_Kinect.pdf)
